@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋 I'm Shirasagi
+
+- 🌱 **I’m currently learning** : C#/.NET, ASP.NET Core, WinUI 3
+- 🔭 **I’m currently working on** : NJUPT SAST Winter Of Code 2024 & helping testing & fixing SAST-IMG  
+
+[![Shirasagi0012's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shirasagi0012)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Shirasagi0012's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Shirasagi0012&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Shirasagi0012/Shirasagi0012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
